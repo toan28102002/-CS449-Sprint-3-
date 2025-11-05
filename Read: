@@ -1,2 +1,0 @@
-- Updating game mode (simple or general), choosing the board size, setting up a new game, making a move (in a simple orgeneral game), and determining if a simple or general game is over. The following is a sample GUI layout.
-- Use a class hierarchy to deal with the common requirements of the Simple Game and the General Game. 
